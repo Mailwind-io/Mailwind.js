@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://mailwind.blob.core.windows.net/website/og.png)
+![Mailwind Banner](https://mailwind.blob.core.windows.net/website/og.png)
 
 # Mailwind SDK
 A simple Node.js SDK for interacting with the Mailwind API.
