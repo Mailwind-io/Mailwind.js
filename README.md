@@ -5,14 +5,17 @@ A simple Node.js SDK for interacting with the Mailwind API.
 Install the package using npm or yarn:
 
 ```bash
-npm install mailwind.nodejs
+npm i @mailwind/mailwind.js
 # or
-yarn add mailwind.nodejs
+yarn add @mailwind/mailwind.js
 ```
 
 ## Setup
 ```javascript
-const { Mailwind } = require('mailwind.nodejs');
+import { Mailwind } from '@mailwind/mailwind.js';
+// or
+import { Mailwind } = require('@mailwind/mailwind.js');
+
 const mailwindInstance = new Mailwind('YOUR_API_KEY');
 ```
 
