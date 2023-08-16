@@ -3,6 +3,12 @@
 # Mailwind SDK
 A simple Node.js SDK for interacting with the Mailwind API.
 
+## Prerequisites
+Before you can send your first emails, you must have:
+- [Create a Mailwind account](https://mailwind.io/login)
+- [Add your domain](https://mailwind.io/dashboard/settings/domains)
+- [Generate your API Key](https://mailwind.io/dashboard/settings/keys)
+
 ## Installation
 Install the package using npm or yarn:
 
